@@ -1,0 +1,4 @@
+public int MyProperty { get; set; }
+get
+int
+
